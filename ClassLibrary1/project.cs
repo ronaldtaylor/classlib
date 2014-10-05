@@ -13,5 +13,10 @@ namespace ClassLibrary1
         {
             Debug.WriteLine("");
         }
+
+        public void happy()
+        {
+            
+        }
     }
 }
