@@ -16,7 +16,7 @@ namespace ClassLibrary1
 
         public void happy()
         {
-            
+            //
         }
     }
 }
